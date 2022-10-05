@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 great-expectations = "*"
 jupyterlab = "*"
+levenshtein = "*"
 
 [dev-packages]
 invoke = "*"
