@@ -8,7 +8,7 @@ https://pipenv.pypa.io/en/latest/#install-pipenv-today
 ```
 pip install pipenv
 ```
-
+or
 ```
 pipx install pipenv
 ```
